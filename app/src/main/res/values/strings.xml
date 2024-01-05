@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-EATS</string>
+    <string name="e_eat">E-EAT</string>
+    <string name="una_vida_saludable">Una vida saludable</string>
+    <string name="correo_eletronico">Correo eletronico</string>
+    <string name="password">Contraseña</string>
+</resources>
