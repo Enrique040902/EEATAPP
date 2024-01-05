@@ -37,11 +37,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-//@Composable
-//fun MainScreen() {
-//    val navController = rememberNavController()
-//}
-
 
 @Preview(
     name = "Light Mode", showBackground = true
